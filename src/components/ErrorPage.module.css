@@ -1,0 +1,22 @@
+.error {
+    position: relative;
+}
+.img {
+    height: 800px;
+    width: 100%;
+}
+
+.message {
+    position: absolute;
+    left: 30%;
+    bottom: 180px;
+    color: red;
+    font-weight: 900;
+}
+
+.home {
+    text-decoration: underline;
+    position: absolute;
+    left: 45%;
+    bottom: 100px;
+}
